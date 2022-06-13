@@ -1,6 +1,6 @@
 {
-  "name":"hardhat FundMe",
-  "author":"kirill troiak",
+  "name":"hardhat_FundMe",
+  "author":"kirill_troiak",
   "version":"1.0.0",
   "devDependencies": {
     "@chainlink/contracts": "^0.4.1",
